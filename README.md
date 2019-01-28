@@ -7,7 +7,7 @@
 	 README.md
 	 proposal.pdf
 	 report.pdf
-	 all 
+	 new-york-city-taxi-fare-prediction
      |- test.csv
      |- train.csv
      |- sample_submission.csv 
@@ -25,4 +25,4 @@
 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
 
-Download data from this [link](https://www.kaggle.com/c/10170/download-all), extract it and place the data folder as file hierarchy shown above.
+Download data from this [link](https://www.kaggle.com/c/10170/download-all), extract it and place the extracted folder `new-york-city-taxi-fare-prediction` as file hierarchy shown above.
